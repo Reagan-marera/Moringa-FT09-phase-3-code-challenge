@@ -60,12 +60,12 @@ def search_magazine_contributors():
 def main():
     while True:
         print("\nMenu:")
-        print("1. Add Author")
-        print("2. Add Magazine")
-        print("3. Add Article")
-        print("4. Search Author's Articles")
-        print("5. Search Magazine's Articles")
-        print("6. Search Magazine's Contributors")
+        print("1. Include new Author")
+        print("2. Include new Magazine")
+        print("3. Include new Article")
+        print("4. Get Author's Articles")
+        print("5. Get Magazine's Articles")
+        print("6. Get Magazine's Contributors")
         print("7. Exit")
         choice = input("Enter your choice: ")
 
